@@ -1,0 +1,5 @@
+{
+    "dest" : "./webfont",
+    "font-name" : "custom-webfont",
+    "template" : "css"
+}

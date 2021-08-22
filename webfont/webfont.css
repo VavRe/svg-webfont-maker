@@ -1,0 +1,283 @@
+@font-face {
+  font-display: auto;
+  font-family: "webfont";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./webfont.eot?1629606511182");
+  src: url("./webfont.eot?#iefix") format("embedded-opentype"), url("./webfont.woff2?1629606511182") format("woff2"), url("./webfont.woff?1629606511182") format("woff"), url("./webfont.ttf?1629606511182") format("truetype"), url("./webfont.svg?1629606511182#webfont") format("svg");
+}
+
+.webfont {
+  display: inline-block;
+  font-family: "webfont";
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.webfont-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.webfont-xs {
+  font-size: 0.75em;
+}
+
+.webfont-sm {
+  font-size: 0.875em;
+}
+
+.webfont-1x {
+  font-size: 1em;
+}
+
+.webfont-2x {
+  font-size: 2em;
+}
+
+.webfont-3x {
+  font-size: 3em;
+}
+
+.webfont-4x {
+  font-size: 4em;
+}
+
+.webfont-5x {
+  font-size: 5em;
+}
+
+.webfont-6x {
+  font-size: 6em;
+}
+
+.webfont-7x {
+  font-size: 7em;
+}
+
+.webfont-8x {
+  font-size: 8em;
+}
+
+.webfont-9x {
+  font-size: 9em;
+}
+
+.webfont-10x {
+  font-size: 10em;
+}
+
+.webfont-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.webfont-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.webfont-pull-left {
+  float: left;
+}
+
+.webfont-pull-right {
+  float: right;
+}
+
+.webfont.webfont-pull-left {
+  margin-right: 0.3em;
+}
+
+.webfont.webfont-pull-right {
+  margin-left: 0.3em;
+}
+
+
+.webfont-candidates-1650438::before {
+  content: "\ea01";
+}
+
+.webfont-cetificate-1650437::before {
+  content: "\ea02";
+}
+
+.webfont-company-1650435::before {
+  content: "\ea03";
+}
+
+.webfont-company-review-1650436::before {
+  content: "\ea04";
+}
+
+.webfont-deal-1650434::before {
+  content: "\ea05";
+}
+
+.webfont-email-advertisement-1650433::before {
+  content: "\ea06";
+}
+
+.webfont-employee-1650429::before {
+  content: "\ea07";
+}
+
+.webfont-employee-1650430::before {
+  content: "\ea08";
+}
+
+.webfont-employee-review-1650432::before {
+  content: "\ea09";
+}
+
+.webfont-employee-search-1650431::before {
+  content: "\ea0a";
+}
+
+.webfont-employee-skills-1650441::before {
+  content: "\ea0b";
+}
+
+.webfont-find-jobs-1650428::before {
+  content: "\ea0c";
+}
+
+.webfont-global-job-1650472::before {
+  content: "\ea0d";
+}
+
+.webfont-government-jobs-1650471::before {
+  content: "\ea0e";
+}
+
+.webfont-hiring-board-1650470::before {
+  content: "\ea0f";
+}
+
+.webfont-hr-1650469::before {
+  content: "\ea10";
+}
+
+.webfont-international-jobs-1650468::before {
+  content: "\ea11";
+}
+
+.webfont-interview-1650465::before {
+  content: "\ea12";
+}
+
+.webfont-interview-date-1650467::before {
+  content: "\ea13";
+}
+
+.webfont-interview-task-1650466::before {
+  content: "\ea14";
+}
+
+.webfont-job-community-1650464::before {
+  content: "\ea15";
+}
+
+.webfont-job-location-1650463::before {
+  content: "\ea16";
+}
+
+.webfont-job-notification-1650462::before {
+  content: "\ea17";
+}
+
+.webfont-job-offer-later-1650461::before {
+  content: "\ea18";
+}
+
+.webfont-job-opportunity-1650460::before {
+  content: "\ea19";
+}
+
+.webfont-job-portfolio-1650459::before {
+  content: "\ea1a";
+}
+
+.webfont-looking-for-job-1650458::before {
+  content: "\ea1b";
+}
+
+.webfont-message-advertisement-1650457::before {
+  content: "\ea1c";
+}
+
+.webfont-mnc-company-1650455::before {
+  content: "\ea1d";
+}
+
+.webfont-mnc-company-1650456::before {
+  content: "\ea1e";
+}
+
+.webfont-multiple-candidates-1650454::before {
+  content: "\ea1f";
+}
+
+.webfont-multiple-job-1650453::before {
+  content: "\ea20";
+}
+
+.webfont-news-advertisement-1650452::before {
+  content: "\ea21";
+}
+
+.webfont-online-interview-1650451::before {
+  content: "\ea22";
+}
+
+.webfont-online-portfolio-1650450::before {
+  content: "\ea23";
+}
+
+.webfont-phone-interview-1650449::before {
+  content: "\ea24";
+}
+
+.webfont-recruiter-1650447::before {
+  content: "\ea25";
+}
+
+.webfont-recruiter-network-1650448::before {
+  content: "\ea26";
+}
+
+.webfont-rejected-employee-1650446::before {
+  content: "\ea27";
+}
+
+.webfont-resume-1650445::before {
+  content: "\ea28";
+}
+
+.webfont-salary-scale-1650444::before {
+  content: "\ea29";
+}
+
+.webfont-selected-employee-1650443::before {
+  content: "\ea2a";
+}
+
+.webfont-skills-1650442::before {
+  content: "\ea2b";
+}
+
+.webfont-targeted-job-1650440::before {
+  content: "\ea2c";
+}
+
+.webfont-work-from-home-1650439::before {
+  content: "\ea2d";
+}
+

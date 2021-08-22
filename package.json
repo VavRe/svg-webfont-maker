@@ -1,0 +1,15 @@
+{
+  "name": "svg-webfont-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "webfont": "node node_modules/webfont/dist/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webfont": "^11.2.26"
+  }
+}
